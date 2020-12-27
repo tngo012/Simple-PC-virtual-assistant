@@ -5,6 +5,7 @@
 # pip install speechrecognition
 # pip install webbrowser
 # pip wikipedia
+# pip PyAudio
 
 # Import libraries
 import pyttsx3
